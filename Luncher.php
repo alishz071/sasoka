@@ -1,7 +1,8 @@
 <?php
-/*
+/*('BOT_TOKEN', '**311289641:AAFzOP0kN-oMJninMnaZi0l9jodakpnhTFM**);
+/*('API_URL', 'https://api.telegram.org/bot'BOT_TOKEN.'/');
 سورس اصلی ربات پی وی رسان
-@PvResanBot
+@alishz071
 دست هیچ بنی بشری نیست و نخواهد بود
 
 این سورس ای هم که داخل این گیت هاب هست
@@ -31,6 +32,91 @@ site: https://feelthecode.com
 Telegram Bot: https://telegram.me/PvResanBot
 Telegram Channel: https://telegram.me/PvResan
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$admin = **110557082**;
 یا علی خدا قوت
 */
 ?>
